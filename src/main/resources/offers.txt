@@ -1,0 +1,17 @@
+Sejur Exotic|Africa-Mauritius|1855|7
+Sejur Exotic|Africa-Seychelles|1828|7
+Sejur Exotic|Africa-Zanzibar,Tanzania|1157|7
+Sejur Exotic|Asia-Bali,Indonesia|1677|5
+Sejur Exotic|Asia-Dubai|700|5
+Sejur Exotic|Asia-Malaezia|2405|7
+Sejur Exotic|Asia-Maldive|1424|9
+Sejur Exotic|Asia-Thailanda|1213|7
+Sejur Exotic|Asia-Vietnam|1665|9
+Circuit|America de Sud|3675|12
+Circuit|America Centrala|3076|11
+Circuit|America de Nord|3560|12
+Circuit|Asia-China|3185|13
+Circuit|Asia-Bangkok|1645|10
+Circuit|Oceania-Australia si Noua Zeelanda|6788|17
+Croaziera|Dubai-Doha-Muscat|1173|8
+Croaziera|Singapore-Malaezia-Thailanda|2312|7

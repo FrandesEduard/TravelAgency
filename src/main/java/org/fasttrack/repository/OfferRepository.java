@@ -9,4 +9,6 @@ import java.util.List;
 @Repository
 public interface OfferRepository extends JpaRepository<Offer, Integer> {
     List<Offer> findAllByDestination(String destination);
+
+    List<Offer> findAllByDestinationAndPrice(String destination, int price);
 }

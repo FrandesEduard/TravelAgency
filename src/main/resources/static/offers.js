@@ -6,7 +6,7 @@ $(document).ready(() => {
         const name = $('#modal-name').val();
         const destination = $('#modal-destination').val();
         const price = $('#modal-price').val();
-        const length of stay = $('#modal-lengthOfStay').val();
+        const lengthOfStay = $('#modal-lengthOfStay').val();
 
         const newOffer = {
             name: name,
